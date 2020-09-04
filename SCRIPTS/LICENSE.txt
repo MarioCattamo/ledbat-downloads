@@ -1,0 +1,2 @@
+Authors: Alberto Garcia (alberto it.uc3m.es), Anna Mandalari (amandala it.uc3m.es)
+Licensed as GPL3.0 (gpl-3.0)
